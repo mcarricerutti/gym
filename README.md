@@ -1,0 +1,5 @@
+-npm init --yes (para iniciar proyecto)
+-npm install (instalacion de dependencias)
+-npm start (corres el proyecto en http://localhost:3000)
+![](public/muestra.png)
+-npm run electron-start (corres electron)
